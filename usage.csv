@@ -1,0 +1,350 @@
+id,resource_id,start_date,end_date,unblended_cost,currency,usage_amount,service_type,resource_type,region,linked_account,usage_type,tags,cost_category,invoice_id,tax_amount,discount_amount,total_cost
+1,resource-123,2024-10-01,2024-10-14,10.50,USD,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+3,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+4,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+5,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+6,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+7,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+8,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+9,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+10,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+11,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+12,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+13,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+14,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+15,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+16,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+17,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+18,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+19,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+20,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+21,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+22,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+23,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+24,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+25,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+26,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+27,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+28,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+29,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+30,Tax,2024-10-01,2024-10-21,0.11,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.11
+31,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+32,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+33,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+34,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+35,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+36,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+37,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+38,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+39,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+40,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+41,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+42,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+43,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+44,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+45,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+46,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+47,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+48,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+49,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+50,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+51,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+52,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+53,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+54,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+55,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+56,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+57,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+58,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+59,Tax,2024-10-01,2024-10-21,0.11,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.11
+60,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+61,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+62,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+63,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+64,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+65,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+66,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+67,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+68,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+69,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+70,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+71,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+72,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+73,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+74,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+75,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+76,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+77,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+78,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+79,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+80,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+81,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+82,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+83,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+84,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+85,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+86,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+87,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+88,Tax,2024-10-01,2024-10-21,0.11,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.11
+89,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+90,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+91,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+92,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+93,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+94,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+95,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+96,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+97,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+98,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+99,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+100,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+101,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+102,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+103,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+104,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+105,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+106,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+107,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+108,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+109,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+110,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+111,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+112,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+113,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+114,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+115,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+116,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+117,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.17
+118,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+119,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+120,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+121,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+122,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+123,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+124,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+125,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+126,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+127,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+128,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+129,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+130,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+131,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+132,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+133,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+134,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+135,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+136,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+137,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+138,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+139,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+140,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+141,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+142,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+143,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+144,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+145,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+146,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.17
+147,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+148,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+149,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,"Amazon RDS","RDS Instance",us-east-1,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+150,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,"Amazon RDS","RDS Instance",us-east-1,,USE1-APIRequest,{},,,0.00,0.00,0.11
+151,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,"Amazon RDS","RDS Instance",us-east-1,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+152,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,"Amazon RDS","RDS Instance",us-east-1,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+153,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+154,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+155,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+156,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+157,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+158,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+159,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+160,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+161,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+162,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,"Amazon RDS","RDS Instance",us-east-1,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+163,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,"Amazon RDS","RDS Instance",us-east-1,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+164,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+165,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+166,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,"Amazon RDS","RDS Instance",us-east-1,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+167,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,"Amazon RDS","RDS Instance",us-east-1,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+168,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+169,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,"Amazon RDS","RDS Instance",us-east-1,,Requests-Tier1,{},,,0.00,0.00,0.00
+170,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,"Amazon RDS","RDS Instance",us-east-1,,Requests-Tier2,{},,,0.00,0.00,0.00
+171,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,"Amazon RDS","RDS Instance",us-east-1,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+172,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+173,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,"Amazon RDS","RDS Instance",us-east-1,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+174,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+175,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,NoUsageType,{},,,0.00,0.00,0.17
+176,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+177,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+178,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,"Amazon RDS","RDS Instance",us-east-1,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+179,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,"Amazon RDS","RDS Instance",us-east-1,,USE1-APIRequest,{},,,0.00,0.00,0.11
+180,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,"Amazon RDS","RDS Instance",us-east-1,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+181,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,"Amazon RDS","RDS Instance",us-east-1,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+182,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+183,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+184,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+185,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+186,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+187,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+188,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+189,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+190,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+191,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,"Amazon RDS","RDS Instance",us-east-1,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+192,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,"Amazon RDS","RDS Instance",us-east-1,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+193,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+194,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+195,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,"Amazon RDS","RDS Instance",us-east-1,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+196,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,"Amazon RDS","RDS Instance",us-east-1,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+197,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+198,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,"Amazon RDS","RDS Instance",us-east-1,,Requests-Tier1,{},,,0.00,0.00,0.00
+199,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,"Amazon RDS","RDS Instance",us-east-1,,Requests-Tier2,{},,,0.00,0.00,0.00
+200,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,"Amazon RDS","RDS Instance",us-east-1,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+201,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,"Amazon RDS","RDS Instance",us-east-1,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+202,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,"Amazon RDS","RDS Instance",us-east-1,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+203,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+204,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,"Amazon RDS","RDS Instance",us-east-1,,NoUsageType,{},,,0.00,0.00,0.17
+205,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+206,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+207,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+208,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+209,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+210,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+211,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+212,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+213,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+214,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+215,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+216,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+217,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+218,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+219,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+220,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+221,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+222,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+223,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+224,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+225,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+226,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+227,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+228,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+229,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+230,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+231,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+232,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+233,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.17
+234,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+235,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+236,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+237,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+238,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+239,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+240,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+241,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+242,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+243,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+244,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+245,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+246,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+247,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+248,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+249,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+250,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+251,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+252,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+253,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+254,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+255,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+256,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+257,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+258,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+259,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+260,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+261,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+262,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.17
+263,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+264,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+265,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+266,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+267,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+268,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+269,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+270,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+271,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+272,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+273,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+274,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+275,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+276,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+277,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+278,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+279,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+280,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+281,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+282,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+283,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+284,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+285,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+286,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+287,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+288,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+289,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+290,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+291,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.17
+292,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Regional-Bytes,{},,,0.00,0.00,0.00
+293,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-DataTransfer-xAZ-In-Bytes,{},,,0.00,0.00,0.00
+294,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,USE1-DataTransfer-xAZ-Out-Bytes,{},,,0.00,0.00,0.00
+295,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,,,,,USE1-APIRequest,{},,,0.00,0.00,0.11
+296,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,,,,,us-east-1-KMS-Requests,{},,,0.00,0.00,0.00
+297,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,,,,,APS2-EBS:VolumeUsage.gp2,{},,,0.00,0.00,0.00
+298,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+299,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-EUC1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+300,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-In-Bytes,{},,,0.00,0.00,0.00
+301,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE1-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+302,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+303,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USE2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+304,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-In-Bytes,{},,,0.00,0.00,0.00
+305,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,APS2-USW2-AWS-Out-Bytes,{},,,0.00,0.00,0.00
+306,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,,,,,APS2-BoxUsage:t2.micro,{},,,0.00,0.00,0.00
+307,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,,,,,APS2-DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+308,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,,,,,APS2-DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+309,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-In-Bytes,{},,,0.00,0.00,0.00
+310,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+311,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,,,,,InstanceUsage:db.t4g.micro,{},,,0.00,0.00,0.00
+312,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,,,,,RDS:GP3-Storage,{},,,0.00,0.00,0.35
+313,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,,,,,DataTransfer-Out-Bytes,{},,,0.00,0.00,0.00
+314,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,,,,,Requests-Tier1,{},,,0.00,0.00,0.00
+315,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,,,,,Requests-Tier2,{},,,0.00,0.00,0.00
+316,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,,,,,APS2-PublicIPv4:InUseAddress,{},,,0.00,0.00,0.00
+317,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,,,,,APS2-CW:Requests,{},,,0.00,0.00,0.00
+318,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,,,,,USE1-DataProcessing-Bytes,{},,,0.00,0.00,0.00
+319,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,,,,,USE1-TimedStorage-ByteHrs,{},,,0.00,0.00,0.00
+320,Tax,2024-10-01,2024-10-21,0.17,USD,0.00,,,,,NoUsageType,{},,,0.00,0.00,0.17
+321,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,DataTransfer-Regional-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+322,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,USE1-DataTransfer-xAZ-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+323,"AWS CloudShell",2024-10-01,2024-10-21,0.00,USD,0.01,NULL,NULL,NULL,NULL,USE1-DataTransfer-xAZ-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+324,"AWS Cost Explorer",2024-10-01,2024-10-21,0.11,USD,11.00,NULL,NULL,NULL,NULL,USE1-APIRequest,NULL,NULL,NULL,NULL,NULL,NULL
+325,"AWS Key Management Service",2024-10-01,2024-10-21,0.00,USD,4.00,NULL,NULL,NULL,NULL,us-east-1-KMS-Requests,NULL,NULL,NULL,NULL,NULL,NULL
+326,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,6.53,NULL,NULL,NULL,NULL,APS2-EBS:VolumeUsage.gp2,NULL,NULL,NULL,NULL,NULL,NULL
+327,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-EUC1-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+328,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-EUC1-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+329,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-USE1-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+330,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-USE1-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+331,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-USE2-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+332,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-USE2-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+333,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-USW2-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+334,"EC2 - Other",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,APS2-USW2-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+335,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,162.00,NULL,NULL,NULL,NULL,APS2-BoxUsage:t2.micro,NULL,NULL,NULL,NULL,NULL,NULL
+336,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.18,NULL,NULL,NULL,NULL,APS2-DataTransfer-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+337,"Amazon Elastic Compute Cloud - Compute",2024-10-01,2024-10-21,0.00,USD,0.01,NULL,NULL,NULL,NULL,APS2-DataTransfer-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+338,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,DataTransfer-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+339,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,DataTransfer-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+340,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.00,USD,113.61,NULL,NULL,NULL,NULL,InstanceUsage:db.t4g.micro,NULL,NULL,NULL,NULL,NULL,NULL
+341,"Amazon Relational Database Service",2024-10-01,2024-10-21,0.35,USD,3.05,NULL,NULL,NULL,NULL,RDS:GP3-Storage,NULL,NULL,NULL,NULL,NULL,NULL
+342,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,DataTransfer-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+343,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,42.00,NULL,NULL,NULL,NULL,Requests-Tier1,NULL,NULL,NULL,NULL,NULL,NULL
+344,"Amazon Simple Storage Service",2024-10-01,2024-10-21,0.00,USD,89.00,NULL,NULL,NULL,NULL,Requests-Tier2,NULL,NULL,NULL,NULL,NULL,NULL
+345,"Amazon Virtual Private Cloud",2024-10-01,2024-10-21,0.00,USD,161.38,NULL,NULL,NULL,NULL,APS2-PublicIPv4:InUseAddress,NULL,NULL,NULL,NULL,NULL,NULL
+346,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,10.00,NULL,NULL,NULL,NULL,APS2-CW:Requests,NULL,NULL,NULL,NULL,NULL,NULL
+347,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.04,NULL,NULL,NULL,NULL,USE1-DataProcessing-Bytes,NULL,NULL,NULL,NULL,NULL,NULL
+348,AmazonCloudWatch,2024-10-01,2024-10-21,0.00,USD,0.00,NULL,NULL,NULL,NULL,USE1-TimedStorage-ByteHrs,NULL,NULL,NULL,NULL,NULL,NULL
+349,Tax,2024-10-01,2024-10-21,0.23,USD,0.00,NULL,NULL,NULL,NULL,NoUsageType,NULL,NULL,NULL,NULL,NULL,NULL

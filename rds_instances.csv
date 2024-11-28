@@ -1,0 +1,4 @@
+id,db_instance_id,db_instance_class,db_engine,db_status,db_instance_status,master_username,endpoint_address,endpoint_port,vpc_id,availability_zone,multi_az,backup_retention_period,tags,storage_encrypted,instance_create_time,license_model,cost,usage_quantity
+1,database-1,db.t4g.micro,mysql,available,available,admin,database-1.cfa6aie0ilu9.us-east-1.rds.amazonaws.com,3306,vpc-0a768e072fa050992,us-east-1f,0,7,[],1,"2024-10-16 06:23:20",general-public-license,NULL,NULL
+2,database-1,db.t4g.micro,mysql,available,available,admin,database-1.cfa6aie0ilu9.us-east-1.rds.amazonaws.com,3306,vpc-0a768e072fa050992,us-east-1f,0,7,[],1,"2024-10-16 06:23:20",general-public-license,NULL,NULL
+3,database-1,db.t4g.micro,mysql,available,available,admin,database-1.cfa6aie0ilu9.us-east-1.rds.amazonaws.com,3306,vpc-0a768e072fa050992,us-east-1f,0,7,[],1,"2024-10-16 06:23:20",general-public-license,NULL,NULL

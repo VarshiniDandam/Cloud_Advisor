@@ -1,0 +1,12 @@
+id,instance_id,instance_type,state,launch_time,availability_zone,private_ip_address,public_ip_address,key_name,security_groups,vpc_id,subnet_id,ami_id,instance_lifecycle,tags,root_device_type,monitoring,termination_protection,tenancy,billing_product_codes
+1,i-1234567890abcdef0,t2.micro,running,24-10-2024 12:05,us-west-2a,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+3,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+4,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+5,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+6,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+7,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+8,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+9,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+10,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]
+11,i-1234567890abcdef0,t2.micro,running,01-01-2024 12:00,us-west-2a,192.168.1.1,203.0.113.1,my-key,[],vpc-123abc,subnet-123abc,ami-12345678,on-demand,{},ebs,disabled,0,default,[]

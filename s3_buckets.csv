@@ -1,0 +1,12 @@
+id,bucket_name,creation_date,region,bucket_owner,storage_class,versioning_status,encryption,public_access_blocked,tags,access_logging_enabled,lifecycle_rules,total_usage,total_cost
+1,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,1d5f94a8cd7561516746207aaca9dc39f0fd78f25e43fa523115b6b71840b9a6,STANDARD,Enabled,AES256,0,[],0,[],0,0
+2,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,1d5f94a8cd7561516746207aaca9dc39f0fd78f25e43fa523115b6b71840b9a6,STANDARD,Enabled,AES256,0,[],0,[],0,0
+3,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,1d5f94a8cd7561516746207aaca9dc39f0fd78f25e43fa523115b6b71840b9a6,STANDARD,Enabled,AES256,0,[],0,[],0,0
+4,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,1d5f94a8cd7561516746207aaca9dc39f0fd78f25e43fa523115b6b71840b9a6,STANDARD,Enabled,AES256,0,[],0,[],0,0
+5,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,1d5f94a8cd7561516746207aaca9dc39f0fd78f25e43fa523115b6b71840b9a6,STANDARD,Enabled,AES256,0,[],0,[],0,0
+6,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,1d5f94a8cd7561516746207aaca9dc39f0fd78f25e43fa523115b6b71840b9a6,STANDARD,Enabled,AES256,0,[],0,[],0,0
+7,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0
+8,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0
+9,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0
+10,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0
+11,varsh-cloud-storage-001,"2024-10-16 06:23:39",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0

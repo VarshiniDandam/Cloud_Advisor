@@ -1,0 +1,30 @@
+id,cost_amount,currency,billing_period,service_type,resource_id,cost_date,usage_type,resource_tags,region,linked_account,cost_category,invoice_id,tax_amount,discount_amount,total_cost
+1,0,USD,01-10-2024,DataTransfer-Regional-Bytes,AWS CloudShell,01-10-2024,DataTransfer-Regional-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+2,0,USD,01-10-2024,USE1-DataTransfer-xAZ-In-Bytes,AWS CloudShell,01-10-2024,USE1-DataTransfer-xAZ-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+3,0,USD,01-10-2024,USE1-DataTransfer-xAZ-Out-Bytes,AWS CloudShell,01-10-2024,USE1-DataTransfer-xAZ-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+4,0.11,USD,01-10-2024,USE1-APIRequest,AWS Cost Explorer,01-10-2024,USE1-APIRequest,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0.11
+5,0,USD,01-10-2024,us-east-1-KMS-Requests,AWS Key Management Service,01-10-2024,us-east-1-KMS-Requests,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+6,0,USD,01-10-2024,APS2-EBS:VolumeUsage.gp2,EC2 - Other,01-10-2024,APS2-EBS:VolumeUsage.gp2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+7,0,USD,01-10-2024,APS2-EUC1-AWS-In-Bytes,EC2 - Other,01-10-2024,APS2-EUC1-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+8,0,USD,01-10-2024,APS2-EUC1-AWS-Out-Bytes,EC2 - Other,01-10-2024,APS2-EUC1-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+9,0,USD,01-10-2024,APS2-USE1-AWS-In-Bytes,EC2 - Other,01-10-2024,APS2-USE1-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+10,0,USD,01-10-2024,APS2-USE1-AWS-Out-Bytes,EC2 - Other,01-10-2024,APS2-USE1-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+11,0,USD,01-10-2024,APS2-USE2-AWS-In-Bytes,EC2 - Other,01-10-2024,APS2-USE2-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+12,0,USD,01-10-2024,APS2-USE2-AWS-Out-Bytes,EC2 - Other,01-10-2024,APS2-USE2-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+13,0,USD,01-10-2024,APS2-USW2-AWS-In-Bytes,EC2 - Other,01-10-2024,APS2-USW2-AWS-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+14,0,USD,01-10-2024,APS2-USW2-AWS-Out-Bytes,EC2 - Other,01-10-2024,APS2-USW2-AWS-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+15,0,USD,01-10-2024,APS2-BoxUsage:t2.micro,Amazon Elastic Compute Cloud - Compute,01-10-2024,APS2-BoxUsage:t2.micro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+16,0,USD,01-10-2024,APS2-DataTransfer-In-Bytes,Amazon Elastic Compute Cloud - Compute,01-10-2024,APS2-DataTransfer-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+17,0,USD,01-10-2024,APS2-DataTransfer-Out-Bytes,Amazon Elastic Compute Cloud - Compute,01-10-2024,APS2-DataTransfer-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+18,0,USD,01-10-2024,DataTransfer-In-Bytes,Amazon Relational Database Service,01-10-2024,DataTransfer-In-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+19,0,USD,01-10-2024,DataTransfer-Out-Bytes,Amazon Relational Database Service,01-10-2024,DataTransfer-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+20,0,USD,01-10-2024,InstanceUsage:db.t4g.micro,Amazon Relational Database Service,01-10-2024,InstanceUsage:db.t4g.micro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+21,0.35,USD,01-10-2024,RDS:GP3-Storage,Amazon Relational Database Service,01-10-2024,RDS:GP3-Storage,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0.35
+22,0,USD,01-10-2024,DataTransfer-Out-Bytes,Amazon Simple Storage Service,01-10-2024,DataTransfer-Out-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+23,0,USD,01-10-2024,Requests-Tier1,Amazon Simple Storage Service,01-10-2024,Requests-Tier1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+24,0,USD,01-10-2024,Requests-Tier2,Amazon Simple Storage Service,01-10-2024,Requests-Tier2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+25,0,USD,01-10-2024,APS2-PublicIPv4:InUseAddress,Amazon Virtual Private Cloud,01-10-2024,APS2-PublicIPv4:InUseAddress,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+26,0,USD,01-10-2024,APS2-CW:Requests,AmazonCloudWatch,01-10-2024,APS2-CW:Requests,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+27,0,USD,01-10-2024,USE1-DataProcessing-Bytes,AmazonCloudWatch,01-10-2024,USE1-DataProcessing-Bytes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+28,0,USD,01-10-2024,USE1-TimedStorage-ByteHrs,AmazonCloudWatch,01-10-2024,USE1-TimedStorage-ByteHrs,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+29,0.23,USD,01-10-2024,NoUsageType,Tax,01-10-2024,NoUsageType,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0.23
