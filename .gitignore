@@ -1,0 +1,70 @@
+# Ignore environment variables file
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flask-Specific Files
+instance/
+*.sqlite3
+*.db
+
+# Logs
+*.log
+*.out
+*.err
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore node_modules if using JavaScript
+node_modules/
+
+# Ignore static assets in production if using Flask static folder
+/static/
+
+# Ignore compiled files
+*.o
+*.so
+*.a
+
+# Ignore cache
+.cache/
